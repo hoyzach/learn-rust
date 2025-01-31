@@ -1,0 +1,1 @@
+C:\Users\zjh90\RustroverProjects\Learn\ Rust\target\debug\characters_test.exe: C:\Users\zjh90\RustroverProjects\Learn\ Rust\Common\ Programming\ Concepts\Basic\ Data\ Types\Characters\ Test\src\main.rs
